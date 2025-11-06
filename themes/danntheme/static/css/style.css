@@ -40,7 +40,7 @@ p+p, p.lead+p {
     background-color: #eee;
 }
 .narrow_body {
-  width: 33em;
+  width: 50em;
   margin: auto;
 }
 body {
@@ -59,10 +59,10 @@ a {
   text-decoration: none;
 }
 a:link {
-  color: #c00;
+  color: #B602A4;
 }
 a:hover, a:visited {
-  color: #606;
+  color: #780264;
 }
 a:active {
   color: #900;

@@ -1,9 +1,9 @@
 baseURL = "https://dannb.org/"
 languageCode = "en-us"
-title = "Dann Berg: blog, newsletter, shop, and more"
+title = "Rhiannon Jones"
 theme = "danntheme"
 rssLimit = 20
-copyright = "2025 Dann Berg. All rights reserved."
+copyright = "2025 Rhiannon Jones. All rights reserved."
 googleAnalytics = "G-93Y1XRNTS1"
 
 [markup]
@@ -13,9 +13,8 @@ googleAnalytics = "G-93Y1XRNTS1"
       unsafe = true
 
 [params]
-  author = "Dann Berg"
-  description = "Hello, I'm Dann. I lead FinOps at Squarespace (ex-Datadog, ex-FullStory) and write newsletters, blogs, and plays on the side. Here be thoughts on finops, technology, productivity, & more."
-  images = ["dberg-main-og-image.jpg"]
+  author = "Rhiannon Jones"
+  description = ""
 
 [[menu.main]]
   name = "About"
@@ -23,23 +22,13 @@ googleAnalytics = "G-93Y1XRNTS1"
   weight = 1
 
 [[menu.main]]
-  name = "Start here"
-  url = "/start-here"
-  weight = 2
-
-[[menu.main]]
-  name = "Articles"
+  name = "Writing"
   url = "/blog"
   weight = 3
 
 [[menu.main]]
-  name = "Newsletter"
-  url = "/newsletter"
-  weight = 4
-
-[[menu.main]]
-  name = "Art"
-  url = "/art"
+  name = "Bookshelf"
+  url = "/bookshelf"
   weight = 5
 
 [related]

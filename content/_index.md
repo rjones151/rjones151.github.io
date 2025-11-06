@@ -1,27 +1,21 @@
 ---
-title: "Dann Berg: blog, newsletter, shop, and more"
+title: "Rhiannon Jones"
 date: 2020-05-01T08:03:56-04:00
-description: "Hello, I'm Dann. I lead FinOps at Squarespace (ex-Datadog, ex-FullStory) and write newsletters, blogs, and plays on the side. This is home to my thoughts on finops, technology, productivity, & more."
+description: "Hello, I'm Rhiannon. Data Scientist, Data Analyst, Product Owner, Product Manager. This is home to my thoughts on technology, productivity, diversity & more."
 ---
 
 <!-- Text for the header is in the shortcode -->
 {{< blog-header >}}
 
-{{<figure src="/images/dannberg.png" width="250" height="250" class="pull-left" >}}
-
 {{% class lead %}}
-Hello, I'm Dann. I work at the intersection of engineering, finance, and cloud cost optimization. In simpler terms, I help make big, scary cloud bills not so big or scary.
+Hello, I'm Rhiannon. I work in the intersection of data and product, currently building tech products for marketers.
+<br>
 {{% /class %}}
 
-I lead FinOps at **[Squarespace](https://www.squarespace.com)**. Want to do a deeper dive? There's more on my **[About](/about)** page, or you can check me out on **[LinkedIn](https://www.linkedin.com/in/dannberg/)**, **[Github](https://github.com/dannberg)**, and **[Bluesky](https://bsky.app/profile/dann.fun)**. My interests are all over the place, but my **[articles](https://dannb.org/blog/)** and **[newsletter](https://thedannchronicles.com)** are the best way to get a taste of what's catching my attention at the moment. It's also pretty easy to find more about me with a quick **[Google search](https://www.google.com/search?q=dann+berg)**. Spelling Dann with two Ns is great for SEO.
+Outside of work I focus on initiatives that drive inclusivity in education and tech. I’m the vice-chair of governors at a primary school in a deprived area. I mentor with the Social Mobility Foundation, and previously tutored with Action Tutoring.
 
-In a past life (before the deep dive into FinOps), I was a tech journalist, and my writing has appeared on MSNBC, Fox News, The Verge, Mashable, Laptop Magazine, and Tom’s Guide. I also co-authored two full-length plays with my wife, including "**[The Floorshow](http://combustioncollective.org/the-floorshow/)**," which is about a group of tap-dancing showgirls in the 1950s.
+[Proudly state schooled](https://www.93percent.club/).
 
-I live in Brooklyn, New York with **[my wife](https://asuleen.com)** and our cat.
+In a past life I ran a successful lifestyle blog (since closed, but fondly remembered), with my writing featured on sites such as [Her Campus](https://www.hercampus.com/).
 
-{{% class center %}}
-### Selected Output
-{{% /class %}}
-
-<!-- The full text for the UL on the homepage is in the shortcode -->
-{{< home-ul >}}
+If you want to read more, there's more on my **[About](/about)** page, or you can check me out on **[LinkedIn](https://www.linkedin.com/in/rhiannon-p-jones/)**
