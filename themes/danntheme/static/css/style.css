@@ -13,8 +13,7 @@ p+p, p.lead+p {
   font-size: 1rem;
   line-height: 1rem;
   padding-bottom: 20px;
-  border-bottom: 1px solid #eee
-  }
+}
 .navbar-item {
   font-weight: normal;
   padding: 20px;
@@ -40,7 +39,7 @@ p+p, p.lead+p {
     background-color: #eee;
 }
 .narrow_body {
-  width: 50em;
+  width: 45rem;
   margin: auto;
 }
 body {
@@ -51,22 +50,37 @@ body {
   padding: 2em 2em 5em;
   background: #fdfdfd;
   margin: auto;
-  max-width: 53em;
+  max-width: 42em;
   color: #0a0a0a;
+}
+footer {
+  padding-top: 3rem;
 }
 a {
   outline: 0!important;
   text-decoration: none;
 }
 a:link {
-  color: #B602A4;
+  color: #00b4d8;
+  font-weight: bold;
 }
-a:hover, a:visited {
-  color: #780264;
+a:visited {
+  color: #0077b6;
 }
-a:active {
-  color: #900;
+a:active, a:hover {
+  color: #00b4d8;
   outline: 0;
+}
+nav a:link,
+nav a:visited,
+nav a:active,
+nav a:hover,
+footer a:link,
+footer a:visited,
+footer a:active,
+footer a:hover {
+  color: #000000;
+  font-weight: normal;
 }
 h1 {
   font-size: 320%;

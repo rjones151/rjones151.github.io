@@ -1,0 +1,64 @@
+books:
+  # - title: "The Design of Everyday Things"
+  #   author: "Don Norman"
+  #   cover: "design-everyday-things.jpg"
+  #   year_read: 2019
+  #   impact: "Changed how I think about user experience and design"
+
+
+  - title: "Range"
+    author: "David Epstein"
+    cover: "range.jpg"
+
+  - title: "On Writing Well"
+    author: "William Zinsser"
+    cover: "on-writing-well.jpg"
+
+  - title: "Supercommunicators"
+    author: "Charles Duhigg"
+    cover: "supercommunicators.jpg"
+
+  - title: "The Power of Habit"
+    author: "Charles Duhigg"
+    cover: "the-power-of-habit.jpg"
+
+  - title: "The Personal MBA"
+    author: "Josh Kaufman"
+    cover: "the-personal-mba.jpg"
+
+  - title: "The Making of a Manager"
+    author: "Julie Zhuo"
+    cover: "the-making-of-a-manager.jpg"
+
+  - title: "The Lean Product Playbook"
+    author: "Dan Olsen"
+    cover: "the-lean-product-playbook.jpg"
+
+  - title: "Sprint"
+    author: "Jake Knapp"
+    cover: "sprint.jpg"
+
+  - title: "Product Operations"
+    author: "Denise Tilles and Melissa Perri"
+    cover: "product-operations.jpg"
+
+  - title: "$100M Offers"
+    author: "Alex Hormozi"
+    cover: "100m-offers.jpg"
+
+  - title: "Atomic Habits"
+    author: "James Clear"
+    cover: "atomic-habits.jpg"
+
+  - title: "Make Time"
+    author: "Jake Knapp and John Zeratsky"
+    cover: "make-time.jpg"
+
+  - title: "The 12 Week Year"
+    author: "Brian P. Moran and Michael Lennington"
+    cover: "the-12-week-year.jpg"
+
+  - title: "The Spy and the Traitor"
+    author: "Ben Macintyre"
+    cover: "the-spy-and-the-traitor.jpg"
+

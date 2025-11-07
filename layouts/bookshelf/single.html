@@ -1,0 +1,51 @@
+{{ define "main" }}
+<article class="bookshelf">
+  <header class="bookshelf-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Content }}
+      <div class="bookshelf-intro">
+        {{ . }}
+      </div>
+    {{ end }}
+  </header>
+
+  <section class="bookshelf-gallery" aria-label="Book collection">
+    {{ range .Site.Data.books.books }}
+      {{ $book := . }}
+      <article class="book-card">
+        <figure>
+          {{ $imagePath := printf "images/books/%s" .cover }}
+          {{ with resources.Get $imagePath }}
+            {{ $resized := .Resize "400x webp q85" }}
+            <img 
+              src="{{ $resized.RelPermalink }}" 
+              alt="Book cover: {{ $book.title }} by {{ $book.author }}"
+              width="{{ $resized.Width }}"
+              height="{{ $resized.Height }}"
+              loading="lazy"
+              class="book-cover"
+            />
+          {{ else }}
+            <div class="book-cover-placeholder" aria-label="Book cover: {{ $book.title }} by {{ $book.author }}">
+              <span class="book-title-text">{{ $book.title }}</span>
+            </div>
+          {{ end }}
+          
+          <figcaption class="book-info">
+            <h2 class="book-title">{{ $book.title }}</h2>
+            <p class="book-author">{{ $book.author }}</p>
+            {{ with $book.year_read }}
+              <p class="book-year" aria-label="Year read">
+                <time datetime="{{ . }}">{{ . }}</time>
+              </p>
+            {{ end }}
+            {{ with $book.impact }}
+              <p class="book-impact">{{ . }}</p>
+            {{ end }}
+          </figcaption>
+        </figure>
+      </article>
+    {{ end }}
+  </section>
+</article>
+{{ end }}

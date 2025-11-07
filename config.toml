@@ -24,12 +24,12 @@ googleAnalytics = "G-93Y1XRNTS1"
 [[menu.main]]
   name = "Writing"
   url = "/blog"
-  weight = 3
+  weight = 2
 
 [[menu.main]]
   name = "Bookshelf"
   url = "/bookshelf"
-  weight = 5
+  weight = 3
 
 [related]
     threshold = 0
