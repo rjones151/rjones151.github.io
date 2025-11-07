@@ -8,3 +8,7 @@
 ## Creating a new post
 
 `hugo new blog/2023/post-name.md`
+
+
+## To do
+- [ ] Mobile friendly nav
