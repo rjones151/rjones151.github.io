@@ -24,7 +24,7 @@ Growing up I drew a lot. I set it aside as I began to prioritise maths and tech,
 
 Recently, I’ve been working through [Baseline’s design course](https://www.baselinehq.com/) and building projects with [Affinity](https://www.affinity.studio/). Designing products has been a full-circle moment for me as I get to combine an early love of art with a more recent love of tech.
 
-I play video games (*Balatro, Dave the Diver, Inscryption, Civ 5, Witcher 3*), and board games (*chess, mahjong*). I find a turn-based strategy game hard to beat.
+I play video games (*Balatro, Dave the Diver, Inscryption, Civ 5, Witcher 3*), and board games (*chess, mahjong*).
 
 <br>
 
