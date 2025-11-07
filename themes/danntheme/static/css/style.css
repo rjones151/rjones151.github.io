@@ -39,7 +39,7 @@ p+p, p.lead+p {
     background-color: #eee;
 }
 .narrow_body {
-  width: 45rem;
+  width: 49rem;
   margin: auto;
 }
 body {
@@ -61,7 +61,7 @@ a {
   text-decoration: none;
 }
 a:link {
-  color: #00b4d8;
+  color: #0077b6;
   font-weight: bold;
 }
 a:visited {
@@ -308,7 +308,8 @@ pre {
 }
 
 /* Cookie Consent Banner */
-.cookie-consent-banner {
+/* Not needed - no cookies collected */
+/* .cookie-consent-banner {
     display: none;
     position: fixed;
     bottom: 20px;
@@ -390,7 +391,7 @@ pre {
     background-color: #f5f5f5;
     color: #333;
     border-color: #333;
-}
+} */
 
 @media screen and (max-width: 500px) {
     .cookie-consent-banner {
