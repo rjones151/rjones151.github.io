@@ -12,3 +12,7 @@
 
 ## To do
 - [ ] Mobile friendly nav
+- [ ] Add a schedule time with me link
+- [ ] Fix homepage alignment
+- [ ] Create a now page https://sive.rs/now2
+- [ ] External links open in new tab

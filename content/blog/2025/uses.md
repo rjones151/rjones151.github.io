@@ -1,7 +1,7 @@
 ---
 title: "Uses: My Tools and Setup"
 date: 2025-11-07T13:37:06Z
-description: "A list of tools I use regularly, inspired by Wes Bos."
+description: "A list of tools I use regularly, inspired by Wes Bos"
 url: /uses
 categories:
   - "technology"
