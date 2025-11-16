@@ -38,6 +38,10 @@ books:
     author: "Jake Knapp"
     cover: "sprint.jpg"
 
+  - title: "Inspired"
+    author: "Marty Cagan"
+    cover: "inspired.jpg"
+
   - title: "Product Operations"
     author: "Denise Tilles and Melissa Perri"
     cover: "product-operations.jpg"
@@ -57,6 +61,14 @@ books:
   - title: "The 12 Week Year"
     author: "Brian P. Moran and Michael Lennington"
     cover: "the-12-week-year.jpg"
+
+  - title: "Never Split The Difference"
+    author: "Chris Voss"
+    cover: "never-split-the-difference.jpg"
+
+  - title: "No Bullshit Strategy"
+    author: "Alex M H Smith"
+    cover: "no-bullshit-strategy.png"
 
   - title: "The Spy and the Traitor"
     author: "Ben Macintyre"
