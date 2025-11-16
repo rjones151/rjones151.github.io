@@ -27,7 +27,7 @@ googleAnalytics = "G-93Y1XRNTS1"
   weight = 2
 
 [[menu.main]]
-  name = "Writing"
+  name = "Articles"
   url = "/blog"
   weight = 3
 
