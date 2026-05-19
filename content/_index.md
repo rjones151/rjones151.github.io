@@ -1,7 +1,7 @@
 ---
 title: "Rhiannon Jones"
 date: 2020-05-01T08:03:56-04:00
-description: "Hello, I'm Rhiannon. Data Scientist, Data Analyst, Product Owner, Product Manager. This is home to my thoughts on technology, productivity, diversity & more."
+description: "Hello, I'm Rhiannon. Software Engineer. This is home to my thoughts on technology, productivity & more."
 ---
 
 <!-- Text for the header is in the shortcode -->
