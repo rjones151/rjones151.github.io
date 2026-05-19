@@ -52,7 +52,7 @@ Obsidian
 
 Github: Storage for Obsidian
 
-UpNote: Wuick notes with instant cloud storage
+UpNote: Quick notes with instant cloud storage
 
 Notion: For larger projects
 
