@@ -18,7 +18,7 @@ A list of tools I use regularly, inspired by Wes Bos. For more lists like this, 
 
 Macbook Pro 2021
 
-iPhone 11
+iPhone 17 pro
 
 Logitech G G502 mouse
 
@@ -62,9 +62,7 @@ Day one: Personal notes & journaling
 
 ## Task Management
 
-Todoist
-
-Habit: IOS app
+TickTick
 
 <br>
 
@@ -75,6 +73,8 @@ Forest: Focus tracker
 Autohotkey: Automation for Windows
 
 Alarmy
+
+Claude Code
 
 <br>
 
@@ -101,6 +101,8 @@ Anki
 ## Media
 
 Spotify: Music, podcasts & audiobooks
+
+Financial Times
 
 <br>
 
@@ -131,7 +133,5 @@ Playstation 5
 Macbook Pro 2021: Civ 5 only
 
 Lichess
-
-Mahjong 13 tiles: **Real** mahjong (not the tile-matching kind)
 
 <br>
